@@ -30,4 +30,5 @@ This is a responsive FinTech landing page designed using **HTML5, CSS3, and Flex
 3. Open **index.html** in any browser
 
 ## 🌐 GitHub Pages 
+https://github.com/harsh240707/Capstone-Harsh-Yadav-LAB-5.
 
